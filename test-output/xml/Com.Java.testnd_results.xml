@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestOne"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.046">
+  <properties />
+  
+  
+            <testcase name="D" time="0.005" classname="Com.Java.testnd" />
+                <testcase name="C" time="0.006" classname="Com.Java.testnd" />
+                <testcase name="B" time="0.005" classname="Com.Java.testnd" />
+                <testcase name="A" time="0.030" classname="Com.Java.testnd" />
+      
+</testsuite>
